@@ -10,6 +10,8 @@ theme:
   name: material
   logo: https://lsc-hubs.org/images/logo-lsc-hubs.svg
   locale: en
+  features:
+    - content.action.edit
 
 nav:
   - Home: index.md
