@@ -1,10 +1,10 @@
 site_name: My first git website
-site_url: https://user.github.io/repo
+site_url: https://pvgenuchten.github.io/cms-training
 site_description: An exersize in data training
 site_author: Example Team
 
-repo_url: https://github.com/user/repo
-edit_uri: blob/master/
+repo_url: https://github.com/pvgenuchten/cms-training
+edit_uri: blob/master/docs
 
 theme:
   name: material
