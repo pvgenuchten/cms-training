@@ -1,0 +1,17 @@
+site_name: My first git website
+site_url: https://user.github.io/repo
+site_description: An exersize in data training
+site_author: Example Team
+
+repo_url: https://github.com/user/repo
+edit_uri: blob/master/
+
+theme:
+  name: material
+  logo: https://lsc-hubs.org/images/logo-lsc-hubs.svg
+  locale: en
+
+nav:
+  - Home: index.md
+  - About: about.md
+
